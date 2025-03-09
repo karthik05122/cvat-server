@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore IDE settings
+*.vscode/
+*.idea/
+
+# Ignore Docker build files
+Docker/
+
+# Ignore authentication tokens
+token.json
+.env
