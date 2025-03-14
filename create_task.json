@@ -1,0 +1,23 @@
+{
+    "name": "New Task",
+    "project_id": 1,
+    "mode": "annotation",
+    "bug_tracker": "https://tracker.example.com/task123",
+    "overlap": 5,
+    "segment_size": 100,
+    "status": "annotation",
+    "dimension": "2d",
+    "subset": "Train",
+    "organization": 1,
+    "target_storage": {
+      "id": 1,
+      "location": "cloud_storage",
+      "cloud_storage_id": 1
+    },
+    "source_storage": {
+      "id": 1,
+      "location": "cloud_storage",
+      "cloud_storage_id": 1
+    },
+    "consensus_enabled": true
+  }

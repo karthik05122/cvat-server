@@ -14,3 +14,5 @@ Docker/
 # Ignore authentication tokens
 token.json
 .env
+
+images
